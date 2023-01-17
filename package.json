@@ -1,0 +1,26 @@
+{
+  "name": "nlw-backend",
+  "version": "1.0.0",
+  "description": "Iniciando o projeto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://isabela-pemill@github.com/isabela-pemill/NLW-BACKEND.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isabela-pemill/NLW-BACKEND/issues"
+  },
+  "homepage": "https://github.com/isabela-pemill/NLW-BACKEND#readme",
+  "dependencies": {
+    "fastify": "^4.11.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
